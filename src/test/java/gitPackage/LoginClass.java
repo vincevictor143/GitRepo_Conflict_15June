@@ -2,7 +2,7 @@ package gitPackage;
 
 public class LoginClass 
 {
-	public void loginPage()
+	public void loginPageMethod()
 	{
 		System.out.println("Enter the username");
 		System.out.println("Enter the Password");
