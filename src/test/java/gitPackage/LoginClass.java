@@ -2,11 +2,11 @@ package gitPackage;
 
 public class LoginClass 
 {
-	public void loginPageMethod()
+	public void loginMethodsecondPerson()
 	{
 		System.out.println("Enter the username");
 		System.out.println("Enter the Password");
-		System.out.println("Click on login button");
+		System.out.println("This is success");
 	}
 
 }
